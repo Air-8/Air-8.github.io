@@ -11,7 +11,7 @@
       <p><b>邮编：100871</b></p>
     </td>
     <td width="25%">
-      <img src="/DSC_0907.jpg" width="100%">      
+      <img src="/DSC_0907.JPG" width="100%">      
     </td>
   </tr>
 </table>
