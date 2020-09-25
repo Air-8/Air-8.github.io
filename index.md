@@ -11,7 +11,7 @@
       <p><b>邮编：100871</b></p>
     </td>
     <td width="25%">
-      <img src="/下载.jpg" width="100%">      
+      <img src="/783f75adaa9b870df4879f93aebafe7.jpg" width="100%">      
     </td>
   </tr>
 </table>
