@@ -9,7 +9,7 @@
       <p><b>地址：北京市海淀区颐和园路5号燕园宿舍，邮编100871</b></p>
     </td>
     <td width="25%">
-      <img src="/photo of myself.jpg" width="75%">      
+      <img src="/photo of myself.jpg" width="100%">      
     </td>
   </tr>
 </table>
